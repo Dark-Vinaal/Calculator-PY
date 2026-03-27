@@ -91,7 +91,7 @@ Beyond basic math, this project serves as a blueprint for building **modern Pyth
 
 ## 🖼️ Screenshots
 
-[SampleImg](https://github.com/Dark-Vinaal/Calculator-PY/blob/main/assets/sample-img.png)
+![SampleImg](https://github.com/Dark-Vinaal/Calculator-PY/blob/main/assets/sample-img.png)
 
 ---
 
